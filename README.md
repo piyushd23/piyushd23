@@ -1,9 +1,11 @@
 # 🌟 **Hi, I'm Piyush Deshmukh**
 
 **UI/UX Designer • Full-Stack Developer • AI & Product Enthusiast**
+---
 📍 Pune, India
 📧 [piyush.deshmukh2304@gmail.com](mailto:piyush.deshmukh2304@gmail.com)
-🔗 [LinkedIn](https://linkedin.com/in/piyush-deshmukh-54bb92265) • [Behance](https://www.behance.net/piyushdeshmukh)
+🔗 [LinkedIn](https://linkedin.com/in/piyush-deshmukh-54bb92265) 
+🔗 [Behance](https://www.behance.net/piyushdeshmukh)
 
 ---
 
@@ -17,29 +19,17 @@ Skilled in the **end-to-end product lifecycle** — research, ideation, design, 
 
 ## 🛠️ **Tech Stack**
 
-### **Programming Languages**
+### **Programming Languages** : Python • JavaScript • C++ • SQL • HTML5 • CSS3
 
-Python • JavaScript • C++ • SQL • HTML5 • CSS3
+### **Frontend** : React.js • Tailwind CSS • Bootstrap • Flutter • Figma • Framer
 
-### **Frontend**
+### **Backend** : FastAPI • Node.js • Express.js • Flask (exposure) • REST APIs
 
-React.js • Tailwind CSS • Bootstrap • Flutter • Figma • Framer
+### **Databases** : MongoDB • PostgreSQL (exposure) • MySQL • SQLite
 
-### **Backend**
+### **Tools & Platforms** : GitHub • Postman • VS Code • Firebase • GitHub Actions • Render
 
-FastAPI • Node.js • Express.js • Flask (exposure) • REST APIs
-
-### **Databases**
-
-MongoDB • PostgreSQL (exposure) • MySQL • SQLite
-
-### **Tools & Platforms**
-
-GitHub • Postman • VS Code • Firebase • GitHub Actions • Render
-
-### **Core Competencies**
-
-UI/UX Design • Product Design • Product Development • Problem Solving • Strategic Planning • Collaboration • Analytical Thinking
+### **Core Competencies** : UI/UX Design • Product Design • Product Development • Problem Solving • Strategic Planning • Collaboration • Analytical Thinking
 
 
 ## 📈 **What I’m Currently Working On**
