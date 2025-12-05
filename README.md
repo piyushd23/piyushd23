@@ -12,8 +12,7 @@
 
 Final-year Computer Engineering student with hands-on experience in UI/UX Design, Web & App Development, and Product Design.  
 I focus on building products that blend technical depth, clean UX, and real-world usability.
-
-Skilled across the end-to-end product lifecycle — from research and ideation to design, development, testing, and delivery — and effective in collaborating with cross-functional teams to align business goals with user needs.
+Skilled across the end-to-end product lifecycle from research and ideation to design, development, testing, and delivery and effective in collaborating with cross-functional teams to align business goals with user needs.
 
 ---
 
@@ -45,6 +44,6 @@ Skilled across the end-to-end product lifecycle — from research and ideation t
 ## 🤝 Let's Connect
 
 I'm open to collaborations, internships, project opportunities, and meaningful conversations.  
-Feel free to reach out anytime — I love building products that make an impact.
+Feel free to reach out anytime , I love building products that make an impact.
 
 ---
