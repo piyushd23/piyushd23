@@ -2,10 +2,10 @@
 
 **UI/UX Designer • Full-Stack Developer • AI & Product Enthusiast**
 ---
-📍 Pune, India
-📧 [piyush.deshmukh2304@gmail.com](mailto:piyush.deshmukh2304@gmail.com)
-🔗 [LinkedIn](https://linkedin.com/in/piyush-deshmukh-54bb92265) 
-🔗 [Behance](https://www.behance.net/piyushdeshmukh)
+📍 Pune, India  ---
+📧 [piyush.deshmukh2304@gmail.com](mailto:piyush.deshmukh2304@gmail.com)  ---
+🔗 [LinkedIn](https://linkedin.com/in/piyush-deshmukh-54bb92265)   ---
+🔗 [Behance](https://www.behance.net/piyushdeshmukh)  ---
 
 ---
 
