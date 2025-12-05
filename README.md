@@ -1,5 +1,4 @@
 # 👋 Hi, I'm Piyush Deshmukh
-
 **UI/UX Designer • Full-Stack Developer • AI & Product Enthusiast**  
 📍 Pune, India  
 📧 Email: piyush.deshmukh2304@gmail.com  
@@ -19,15 +18,10 @@ Skilled across the end-to-end product lifecycle from research and ideation to de
 ## ⚙️ Tech Stack
 
 **Programming Languages:**  Python • JavaScript • C++ • SQL • HTML5 • CSS3  
-
 **Frontend:**  React.js • Tailwind CSS • Bootstrap • Flutter • Figma • Framer  
-
 **Backend:**  FastAPI • Node.js • Express.js • Flask (exposure) • REST APIs  
-
 **Databases:**  MongoDB • PostgreSQL (exposure) • MySQL • SQLite  
-
 **Tools & Platforms:**  GitHub • Postman • VS Code • Firebase • GitHub Actions • Render  
-
 **Core Competencies:**  UI/UX Design • Product Design • Product Development • Problem Solving • Strategic Planning • Collaboration • Analytical Thinking
 
 ---
