@@ -19,17 +19,17 @@ Skilled in the **end-to-end product lifecycle** — research, ideation, design, 
 
 ## 🛠️ **Tech Stack**
 
-### **Programming Languages** : Python • JavaScript • C++ • SQL • HTML5 • CSS3
+**Programming Languages** : Python • JavaScript • C++ • SQL • HTML5 • CSS3
 
-### **Frontend** : React.js • Tailwind CSS • Bootstrap • Flutter • Figma • Framer
+**Frontend** : React.js • Tailwind CSS • Bootstrap • Flutter • Figma • Framer
 
-### **Backend** : FastAPI • Node.js • Express.js • Flask (exposure) • REST APIs
+**Backend** : FastAPI • Node.js • Express.js • Flask (exposure) • REST APIs
 
-### **Databases** : MongoDB • PostgreSQL (exposure) • MySQL • SQLite
+**Databases** : MongoDB • PostgreSQL (exposure) • MySQL • SQLite
 
-### **Tools & Platforms** : GitHub • Postman • VS Code • Firebase • GitHub Actions • Render
+**Tools & Platforms** : GitHub • Postman • VS Code • Firebase • GitHub Actions • Render
 
-### **Core Competencies** : UI/UX Design • Product Design • Product Development • Problem Solving • Strategic Planning • Collaboration • Analytical Thinking
+**Core Competencies** : UI/UX Design • Product Design • Product Development • Problem Solving • Strategic Planning • Collaboration • Analytical Thinking
 
 
 ## 📈 **What I’m Currently Working On**
